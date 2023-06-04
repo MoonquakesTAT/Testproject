@@ -1,1 +1,1 @@
-print("hello linux")
+新功能
